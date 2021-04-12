@@ -11,4 +11,4 @@ Steps to execute the Bitcoin Price Ranking Script:
 •	python3  bitcoin_price_ranking_by_date.py
 4.	The script will generate a JSON file with the bitcoin price rankings for the last 30 days based on the current date.
 5.	The bitcoin_price_rankings_20210411.json file is a formatted sample output file that was created by the script.
-![image](https://user-images.githubusercontent.com/26066949/114335277-7045a700-9b1a-11eb-9f7c-2a662852736d.png
+
